@@ -1,0 +1,17 @@
+BẮT BUỘC KHI LÀM BÀI NHỚ COMMENTS LẠI CÁC DÒNG CODE
+
+1. Viết chương trình in các số 1 đến 10 theo thứ tự tăng dần
+
+2. Viết chương trình in các số 1 đến 10 theo thứ tự giảm dần
+
+3. Viết chương trình in các số chẵn trong dãy từ 1 đến 20
+
+4. Viết chương trình in các số lẻ trong dãy từ 1 đến 20
+
+--- BÀI 5, BÀI 6, BÀi 7 LÀ 3 BÀI TẬP EM SẼ TỰ LÀM VÀ NGHIÊN CỨU NHẰM GIÚP EM TIẾN BỘ + NÂNG CAO KHẢ NĂNG LẬP TRÌNH VÀ TƯ DUY LẬP TRÌNH ---
+
+5. Viết chương trình nhập một số tự nhiên n và in ra tất cả ước số (divisor) của con số đó (NÂNG CAO)
+
+6. Viết chương trình nhập một số và kiểm tra xem số n có là số nguyên tố (Prime) hay không (NÂNG CAO)
+
+7. Viết chương trình giải phương trình bậc hai ax^2+bx+c=0 với a, b, c là số nguyên và được nhập vào từ bàn phím (NÂNG CAO)

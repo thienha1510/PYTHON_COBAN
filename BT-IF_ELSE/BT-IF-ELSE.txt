@@ -1,0 +1,13 @@
+BẮT BUỘC KHI LÀM BÀI NHỚ COMMENTS LẠI CÁC DÒNG CODE
+
+1. Nhập 3 số nguyên a, b, c và xuất ra màn hình giá trị của mỗi số tăng lên 1. 
+
+2. Nhập 1 số n, nếu số n lớn hơn 1 thì tăng 1, sau đó và xuất ra màn hình giá trị của n đăng tăng
+
+3. Nhập vào 2 số thực a và b, cho biết 2 số đó cùng dấu hay khác dấu
+
+4. Nhập số n, kiểm tra n là số chẵn hay lẻ
+
+5. Hãy viết chương trình in ra các ngày trong tuần
+
+6. Nhập 3 số a, b, c và tìm số lớn nhất trong 3 số
