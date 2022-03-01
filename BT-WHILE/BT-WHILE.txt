@@ -1,0 +1,16 @@
+BẮT BUỘC KHI LÀM BÀI NHỚ COMMENTS LẠI CÁC DÒNG CODE
+
+1. Viết chương trình sau sẽ in ra tất cả các số nguyên chẵn nhỏ hơn 1000 và chia hết cho 3
+
+2. Viết chương trình sau sẽ in ra tất cả các số nguyên chẵn nhỏ hơn 3000 và chia hết cho 5
+
+3. Viết chương trình tính tổng các số từ 1 đến n ( while và for )
+
+4. Viết chương trình tính tổng nghịch đảo các số từ 1đến n như sau: S=1 + 1/2 + 1/3 + ... + 1/n ( Dùng while và for )
+
+5. Viết chương trình in ra các số trong khoảng từ 50 đến 200 mà vừa chia hết cho 2 vừa chia hết cho 3. ( Dùng for và if )
+
+6. Nhập vào số nguyên n từ bàn phím.
+    a. Nếu số đó lớn hơn 100 thì in ra dòng: số nhập vào phải bé hơn 100
+    b. Nếu số đó nhỏ hơn hoặc bằng 100, in ra các số chẵn trong khoảng từ 1 đến n
+
