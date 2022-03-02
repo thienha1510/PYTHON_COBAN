@@ -1,0 +1,10 @@
+1. Viết hàm Python tính điểm trung bình học sinh
+
+2. Viết hàm Python tính tổng các số nguyên tô từ 0 - 1000
+
+3. Viết hàm Python tìm giá trị lớn nhất trong 3 số
+
+4. Viết hàm Lambda Python in ra thông tin sinh viên
+
+5. Viết hàm đệ quy Python tính tổng S = 1 + 2 + 3 + 4 + 5 ... + n
+

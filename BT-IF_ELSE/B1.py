@@ -1,10 +1,10 @@
 a = int(input("a: "))
-b = int(input("b: "))
+b = float(input("b: "))
 c = int(input("c: "))
 
 print (a, "+", 1, "=", a+1)
 print (a + 1)
-print (b + 1)
+print (b + 0.5)
 print (c + 1)
 
 
